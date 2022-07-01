@@ -1,4 +1,4 @@
-# Projeto Semanal AstroMatch
+# Projeto AstroMatch
 
 
 A ideia do projeto é realizar um clone do Tinder, utilizando os Hooks(useState e useEffect)
